@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "7f710590997d4fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e77f556c891c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851c45ec14a18409",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CTS/Voltas/Voltas BoardTASKS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "104849524fb5582b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "CTS/Voltas/Voltas BoardTASKS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4cd38e3fa88cdb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/Beginner Interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beginner Interview"
+            }
+          },
+          {
+            "id": "87ea000245308eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTS/Important.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e3fa9e37cc0d515",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c11b96242c44468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ec52e7c7857708",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4caf876dae6ec9f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#issue",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d121ba7ea5d9b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "4ec4cd45d98038d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25ef1cc946dee0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31363bebde39007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTS/Important.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Important"
+            }
+          },
+          {
+            "id": "d60a382e0b08fc04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTS/Important.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Important"
+            }
+          },
+          {
+            "id": "1d1abd044306465f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07544087a97573a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTS/Important.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Important"
+            }
+          },
+          {
+            "id": "f32fa9cf7953cf1a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "af3945d8ce8ea08e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6377bd0715577ea3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1410c38bbd197911",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "237702987b1674a6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "40353dcb249647c1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "4cd38e3fa88cdb77",
+  "lastOpenFiles": [
+    "Swift/Beginner Interview.md",
+    "Swift",
+    "screencapture-twu-superapp-prospects-2024-12-03-13_20_21.pdf",
+    "CTS/Important.md",
+    "React Native/Project.md",
+    "CTS/Voltas/Voltas BoardTASKS.md",
+    "React Native",
+    "CTS/Voltas/MRF.md",
+    "CTS/Voltas/S4 Hanna Discussion.md",
+    "Extras/Templates/Kanban Card.md",
+    "CTS/TWU/Prospect Board.md",
+    "Extras/Templates/Kanban - Tasks.md",
+    "CTS/TWU/Driver Board.md",
+    "Chatbot - Llama.md",
+    "Timesheet.md",
+    "CTS/Primus/Primus Board.md",
+    "CTS/Primus/Tree/Field Worker.md",
+    "CTS/Primus/Tree/Verifier.md",
+    "CTS/TWU/Prospect in TWU and Timeline.md",
+    "CTS/TWU/TicketController.md",
+    "CTS/TWU/Untitled Kanban.md",
+    "Untitled/Gaurav.md",
+    "CTS/Primus/Discussion Pointer.md",
+    "Extras/Templates/Kanban Board.md",
+    "Untitled 1.md",
+    "Dante/TimeSheet.md",
+    "Calendar/2024-09-02 Voltas team discussion.md",
+    "Calendar/2024-09-01 Vikas Patyal Discussion.md",
+    "Extras/Templates",
+    "Extras",
+    "screencapture-twu-superapp-prospects-2024-12-03-13_27_16.pdf",
+    "WhatsApp Image 2024-11-27 at 22.03.04.jpeg",
+    "Dante",
+    "CTS/Voltas",
+    "Gaurav",
+    "Untitled",
+    "1. TA/Home/Images/phone pay.jpeg",
+    "1. TA/Home/Images/home options.jpeg",
+    "1. TA/Home/Images/carousel.jpeg",
+    "TA/Home/Images/homeOptions.jpeg",
+    "1. TA/Bills/Images/IMG_554EB8FA4843-1.jpeg",
+    "1. TA/API Documentation/Drawing 2024-08-25 12.36.50.svg",
+    "1. TA/API Documentation/Screens/singleInventory.jpeg",
+    "1. TA/API Documentation/Screens/searchProductInCategory.jpeg",
+    "1. TA/API Documentation/Screens/searchInventory.jpeg"
+  ]
+}
