@@ -107,10 +107,6 @@ Difference between Class and Protocol
    - A protocol can be adopted by multiple types (class, struct, enum)
    - A class can inherit the parent class (single inheritance).
 
-
-
-
-
 ---
 
 #### What is a difference between Struct and Class?
@@ -125,7 +121,7 @@ Difference between Class and Protocol
 Example
 ```
 struct UserStruct { 
-	var name: String
+var name: String
 }
 
 var user1 = UserStruct(name: "Gagan")
@@ -135,10 +131,10 @@ user2.name = "Gaganjot"
 print(user1.name) // It will print: Gagan
 
 class UserClass { 
-	var name: String
-	init(name: String) { 
-		self.name = name
-	}
+var name: String
+init(name: String) { 
+self.name = name
+}
 }
 
 var user3 = UserClass(name: "singh")
