@@ -152,17 +152,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTS/Important.md",
+                "file": "Swift/Beginner Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Important"
+              "title": "Backlinks for Beginner Interview"
             }
           },
           {
@@ -264,8 +264,7 @@
               "title": "Reminders"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
