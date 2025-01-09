@@ -57,12 +57,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swift/Beginner Interview.md",
+                "file": "Swift/1. Beginner Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginner Interview"
+              "title": "1. Beginner Interview"
+            }
+          },
+          {
+            "id": "177d5160c0fa58b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/2. Intermediate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Intermediate"
+            }
+          },
+          {
+            "id": "86534b2fddfc61e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swift/3. Advanced.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Advanced"
             }
           },
           {
@@ -80,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swift/Beginner Interview.md",
+                "file": "Swift/3. Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beginner Interview"
+              "title": "Backlinks for 3. Advanced"
             }
           },
           {
@@ -293,10 +321,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4cd38e3fa88cdb77",
+  "active": "86534b2fddfc61e3",
   "lastOpenFiles": [
+    "Swift/2. Intermediate.md",
+    "Swift/1. Beginner Interview.md",
+    "Swift/3. Advanced.md",
     "README.md",
-    "Swift/Beginner Interview.md",
     "Swift",
     "screencapture-twu-superapp-prospects-2024-12-03-13_20_21.pdf",
     "CTS/Important.md",
@@ -322,8 +352,6 @@
     "Extras/Templates/Kanban Board.md",
     "Untitled 1.md",
     "Dante/TimeSheet.md",
-    "Calendar/2024-09-02 Voltas team discussion.md",
-    "Calendar/2024-09-01 Vikas Patyal Discussion.md",
     "Extras/Templates",
     "Extras",
     "screencapture-twu-superapp-prospects-2024-12-03-13_27_16.pdf",
